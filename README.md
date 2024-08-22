@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/1436419f-ec6e-419c-97d8-965ef5903aa1)
 
 **emelyestrada01/emelyestrada01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
